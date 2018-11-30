@@ -2,4 +2,4 @@
 Test Repository
 
 ### Lehrveranstaltung: SWE
-### Name: Philipp Grobelscheg
+### Name: Philipp 
